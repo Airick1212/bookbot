@@ -17,4 +17,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-print(get_num_chars(get_book_text("./books/frankenstein.txt")))
+#print(get_num_chars(get_book_text("./books/frankenstein.txt")))
